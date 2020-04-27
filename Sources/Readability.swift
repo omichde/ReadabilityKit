@@ -23,6 +23,7 @@
 //  THE SOFTWARE.
 //
 
+import Foundation
 import Ji
 
 public struct ReadabilityData {
