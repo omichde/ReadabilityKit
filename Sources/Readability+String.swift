@@ -23,6 +23,8 @@
 //  THE SOFTWARE.
 //
 
+import Foundation
+
 public extension Readability {
 
     class func parse(htmlString: String, completion: @escaping (ReadabilityData?) -> ()) {
