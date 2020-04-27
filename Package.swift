@@ -25,7 +25,6 @@ let package = Package(
     targets: [
         .target(
             name: "ReadabilityKit",
-            dependencies: ["Ji"],
             path: "Sources"
         ),
         .testTarget(
